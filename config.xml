@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
 		xmlns:gap="http://phonegap.com/ns/1.0"
-		version="1.0.0"
+		version="1.0.1"
 		id="com.seudominio.cenourapp">
 	
 	<name>Só de Cenoura</name>
@@ -11,7 +11,8 @@
 	</description>
 	<icon src="icon.png" />
 	<plugin name="cordova-plugin-splashscreen" />
-	<splash src="splash.png" platform="android" qualifier="1dpi" />
+	<splash src="splash.png" platform="android" qualifier="ldpi" />
 	<splash src="splash.png" platform="android" qualifier="mdpi" />
 	<splash src="splash.png" platform="android" qualifier="hdpi" />
+
 </widget>
